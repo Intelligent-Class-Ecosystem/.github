@@ -59,22 +59,6 @@
     </tr>
     <tr>
         <td rowspan="2">
-            <a href="https://www.hydun.com">
-            <img src="img/sponsor/hyd.png" width="340">
-            </a>
-        </td>
-        <td>
-            感谢<b>火毅盾</b>为ICE提供专业的全球 CDN 加速服务
-        </td>
-    </tr>
-    <tr>
-        <td>
-        <b>火毅盾</b>由珠海触摸云科技有限公司和湖南琪弦科技有限公司共同运营。
-        现面向地区的政府机构、企业组织和个人提供CDN服务，至今已服务数十家政府网站，数百家企业网站。
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="2">
             <a href="https://forum.smart-teach.cn/">
             <img src="img/sponsor/stcn.png" width="340">
             </a>
